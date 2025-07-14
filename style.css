@@ -1,0 +1,29 @@
+header{
+    background-color:rgb(108, 165, 205);
+    color:white;
+    text-align: center;
+    font-weight: bold;
+    padding: 20px;
+    
+  }
+  nav{
+    margin-top:15px;
+  }
+  h2{
+    color:rgb(23, 96, 90);
+    font-weight:bold;
+  }
+  footer{
+    background-color:rgb(150, 123, 193);
+    color:white;
+    text-align:center;
+    font-weight:bold;
+  }
+  p{
+    font-size:medium;
+    font-weight:bold;
+  }
+  ul{
+    font-weight:bold;
+  }
+  
